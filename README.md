@@ -1,15 +1,9 @@
-<img width="1280px" height="400px" src="https://github.com/tracyschuh/tracyschuh/blob/main/github_header.png">
+# Hi there 👋, I'm Tracy.
 
 ## About Me 
 
 :raised_hands: I just finished an online certificate program to become a Full Stack Developer.<br>
 In my first life, I was an environmental scientist and so quite familiar with the geek life. 🤓 <br>
-
-### Education
-<ul>
-  <li>University of California, Davis, <em>Web Developer Certificate</em> (2022)</li>
-  <li>University of California, San Diego, <em>Ecology</em> (2002)</li>
-</ul>
 
 ### Programming Languages and Frameworks<br>
 <p>
@@ -36,11 +30,11 @@ In my first life, I was an environmental scientist and so quite familiar with th
   <li>Learning how to build a social network in the coding world</li>
 </ul>
 
-### I Also Enjoy:
+### Beside Coding, I Also Enjoy:
 <ul>
-  <li>Stand up paddleboarding and pretty much everything on or near water</li>
-  <li>Running and hiking and generally just being oustide with nature</li>
-  <li>Sunshine and sunsets</li>
+  <li>:surfer: Stand up paddleboarding and pretty much everything on or near water</li>
+  <li>:running_woman: Running and hiking and generally just being oustide with nature</li>
+  <li>:sunny: Sunshine and sunsets</li>
 </ul>
  
 <!--
