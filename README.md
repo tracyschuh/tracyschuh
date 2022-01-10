@@ -1,4 +1,4 @@
-<img width="1280px" height="450px" src="https://github.com/tracyschuh/tracyschuh/blob/main/github_header.png">
+<img width="1280px" height="400px" src="https://github.com/tracyschuh/tracyschuh/blob/main/github_header.png">
 
 ## About Me 
 
