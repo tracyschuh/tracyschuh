@@ -30,7 +30,7 @@ In my first life, I was an environmental scientist and so quite familiar with th
   <li>Learning how to build a social network in the coding world</li>
 </ul>
 
-### Beside Coding, I Also Enjoy:
+### Besides Coding, I Also Enjoy:
 <ul>
   <li>:surfer: Stand up paddleboarding and pretty much everything on or near water</li>
   <li>:running_woman: Running and hiking and generally just being oustide with nature</li>
