@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Tracy.
 
-<p>View my LinkedIn profile:</p>
-<a href="https://www.linkedin.com/in/tracy-schuh-087074229/"><img src ="https://github.com/tracyschuh/tracyschuh/blob/main/linkedin-black-icon.jpg" width="40px" height="40px"></a>
+<p>View my LinkedIn profile:
+<a href="https://www.linkedin.com/in/tracy-schuh-087074229/"><img src ="https://github.com/tracyschuh/tracyschuh/blob/main/linkedin-black-icon.jpg" width="30px" height="30px"></a></p>
 
 ## About Me 
 
