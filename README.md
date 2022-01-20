@@ -1,5 +1,8 @@
 # Hi there 👋, I'm Tracy.
 
+<p>View my LinkedIn profile:</p>
+<a href="https://www.linkedin.com/in/tracy-schuh-087074229/"><img src ="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+
 ## About Me 
 
 :raised_hands: I just finished an online certificate program to become a Full Stack Developer.<br>
@@ -27,7 +30,7 @@ In my first life, I was an environmental scientist and so quite familiar with th
 <ul>
   <li>Getting a coding job!</li>
   <li>Improving my Ajax skills</li>
-  <li>Learning how to build a social network in the coding world</li>
+  <li>Building responsive design into my projects so they display nicely on all devices</li>
 </ul>
 
 ### Besides Coding, I Also Enjoy:
