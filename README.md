@@ -28,7 +28,6 @@ In my first life, I was an environmental scientist and so quite familiar with th
 
 ### I'm Currently Working On:
 <ul>
-  <li>Getting a coding job!</li>
   <li>Improving my Ajax skills</li>
   <li>Building responsive design into my projects so they display nicely on all devices</li>
 </ul>
