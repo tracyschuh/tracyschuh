@@ -28,8 +28,8 @@ In my first life, I was an environmental scientist and so quite familiar with th
 
 ### I'm Currently Working On:
 <ul>
-  <li>Improving my Ajax skills</li>
-  <li>Building responsive design into my projects so they display nicely on all devices</li>
+  <li>Learning Astro & Contentful</li>
+  <li>Deploying personal projects with Vercel</li>
 </ul>
 
 ### Besides Coding, I Also Enjoy:
