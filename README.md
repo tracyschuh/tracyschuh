@@ -5,8 +5,7 @@
 
 ## About Me 
 
-<p>I'm a full stack web developer.</p>
-<p>In my first life, I was an environmental scientist and so quite familiar with the geek life. 🤓</p>
+<p>I'm a full stack web developer. In my first life, I was an environmental scientist and so quite familiar with the geek life. 🤓</p>
 
 ### Programming Languages and Frameworks<br>
 <p>
