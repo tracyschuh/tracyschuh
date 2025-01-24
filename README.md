@@ -5,7 +5,7 @@
 
 ## About Me 
 
-:raised_hands: I just finished an online certificate program to become a Full Stack Developer.<br>
+I'm a full stack web developer.<br>
 In my first life, I was an environmental scientist and so quite familiar with the geek life. 🤓 <br>
 
 ### Programming Languages and Frameworks<br>
